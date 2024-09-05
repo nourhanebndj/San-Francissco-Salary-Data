@@ -24,6 +24,14 @@ Key visualizations in the project include:
 - **Lowest 5 Paid Employees**: A bar chart representing the employees with the lowest total pay.
 - **Yearly Trends**: Analysis of salary trends over the years, including visualizations of salary distribution by job title.
 
+## 🔗 View on Kaggle
+
+This project is also available on **Kaggle** for easy access and exploration. You can view, fork, and interact with the notebook on Kaggle.
+
+- [View the Project on Kaggle](https://www.kaggle.com/code/nourhanebndj/sf-salary) 📊
+
+Feel free to explore the notebook, download datasets, and try out the code.
+
 ## 🎯 Conclusion
 
 This analysis provides useful insights into the salary distribution in San Francisco, helping to identify key trends and patterns among employees, including which job titles earn the most and the least.
