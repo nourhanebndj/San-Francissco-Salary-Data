@@ -33,6 +33,16 @@ This project is also available on **Kaggle** for easy access and exploration. Yo
 
 Feel free to explore the notebook, download datasets, and try out the code.
 
+## 📊 Power BI for Visualization
+
+In addition to Python-based analysis, **Power BI** was used to create dynamic and interactive dashboards that allow users to explore the salary data visually. Key features include:
+
+- **KPI and Trends**: Total salary with benefits visualized as KPIs, with trend lines for historical data.
+- **Top 5 and Bottom 5 Employees**: Easily explore the highest and lowest earners using interactive bar charts.
+- **Salary Breakdown by Job Titles and Year**: Analyze salary distribution across different job titles over time.
+
+If you want to explore the Power BI dashboard, you can access it directly on Power BI Service, or you can download the `.pbix` file to view it locally.
+
 ## 🎯 Conclusion
 
 This analysis provides useful insights into the salary distribution in San Francisco, helping to identify key trends and patterns among employees, including which job titles earn the most and the least.
