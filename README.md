@@ -33,4 +33,4 @@ This analysis provides useful insights into the salary distribution in San Franc
 Feel free to reach out for questions or suggestions:
 
 - 📧 **Email**: nourhanebndj@gmail.com
-- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/nourhanebndj)
+- 🐙 **GitHub**: [Github](https://github.com/nourhanebndj)
