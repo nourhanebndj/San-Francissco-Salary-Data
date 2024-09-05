@@ -1,4 +1,5 @@
 # SF Salaries Analysis 🔍
+![Overview](./SfSalaries.png)
 
 This repository contains an analysis of the SF Salaries dataset, which includes employee data such as job titles, total pay, and benefits. The goal is to analyze the salary distribution, identify top earners, and explore patterns in the salary structure of employees in San Francisco.
 
